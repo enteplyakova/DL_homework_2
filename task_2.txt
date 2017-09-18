@@ -1,0 +1,33 @@
+{\rtf1\ansi\ansicpg1251\cocoartf1504\cocoasubrtf830
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 \\s(O|o)[a-z0-9.-]+@[a-z0-9]+\\.[a-z]+\
+22\
+emails.txt:5389: To: outlook.team@enron.com\
+emails.txt:10713: To: outlook.team@enron.com\
+emails.txt:11587: Outlook.2000@enron.com\
+emails.txt:30122: blank e-mail to on-yild@zdemail.zdlists.com\
+emails.txt:35982: Sender: owner-strawbale@crest.org\
+emails.txt:36031: From: owner-strawbale@crest.org\
+emails.txt:36036: X-From: owner-strawbale@crest.org\
+emails.txt:36055: Sender: owner-strawbale@crest.org\
+emails.txt:38056: To: outlook.team@enron.com\
+emails.txt:39073: Outlook.2000@enron.com\
+emails.txt:52637: From: outlook-migration-team@enron.com\
+emails.txt:52653: From: outlook-migration-team@enron.com\
+emails.txt:59228: From: online.service@schwab.com\
+emails.txt:64780: mike.curry@enron.com, oscar.dalton@enron.com, dana.davis@enron.com,\
+emails.txt:68977: From: open2win.0ll1.net@mailman.enron.com\
+emails.txt:73066: From: oportunity@cells4free.com\
+emails.txt:81779: blank e-mail to on-yild@zdemail.zdlists.com\
+emails.txt:85063: From: owner-strawbale@crest.org\
+emails.txt:85068: X-From: owner-strawbale@crest.org\
+emails.txt:85087: Sender: owner-strawbale@crest.org\
+emails.txt:90620: Sender: owner-strawbale@crest.org\
+emails.txt:92996: Outlook.2000@enron.com\
+Found 22 matches for "\\s\\b(O|o)[a-z0-9.-]+@[a-z0-9]+\\.[a-z]+".\
+}
